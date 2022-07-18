@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"javabasics","c":"Commentsjava","l":"Commentsjava()","u":"%3Cinit%3E()"},{"p":"javabasics","c":"Commentsjava","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
